@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>hexo fluid主题blog的建立与美化~</title>
+    <link href="/2024/12/14/hexo-fluid%E4%B8%BB%E9%A2%98blog%E7%9A%84%E5%BB%BA%E7%AB%8B%E4%B8%8E%E7%BE%8E%E5%8C%96/"/>
+    <url>/2024/12/14/hexo-fluid%E4%B8%BB%E9%A2%98blog%E7%9A%84%E5%BB%BA%E7%AB%8B%E4%B8%8E%E7%BE%8E%E5%8C%96/</url>
+    
+    <content type="html"><![CDATA[<p>  用hugo和hexo纠结了挺久的 最终选了hexo是因为我是小白 而hexo的教程更多更成熟 </p><p>  hexo的主题是在butterfly和fluid中选择了后者 虽然看很多博客用butterfly做的很漂亮 但fluid的简洁戳中了我这个学二进制的新手 开袋即食呀 现阶段也没必要花大精力折腾前端网页啥的o((&gt;ω&lt; ))o </p><p>  同样这篇blog也偷个懒哈哈 直接上链接 没搭过的在全流程在第一个链接看到使用hexo d就可以去看下面的链接了 因为链接全是中文的哈哈 就不双语了</p><p>全流程<a href="https://blog.csdn.net/sinat_37781304/article/details/82729029">https://blog.csdn.net/sinat_37781304/article/details/82729029</a></p><p>fluid指南<a href="https://hexo.fluid-dev.com/docs/guide/">https://hexo.fluid-dev.com/docs/guide/</a></p><p>[<a href="https://youlan-lan.github.io/2021/06/07/Hexo%20%E4%B8%BB%E9%A2%98%E4%B9%8B%20Fluid/#Hexo-%E4%B8%BB%E9%A2%98%E4%B9%8B-Fluid]">https://youlan-lan.github.io/2021/06/07/Hexo%20%E4%B8%BB%E9%A2%98%E4%B9%8B%20Fluid/#Hexo-%E4%B8%BB%E9%A2%98%E4%B9%8B-Fluid]</a>(<a href="https://youlan-lan.github.io/2021/06/07/Hexo">https://youlan-lan.github.io/2021/06/07/Hexo</a> 主题之 Fluid&#x2F;#Hexo-主题之-Fluid)</p><p>如何写文章<a href="https://fuguigui.github.io/hexo2/">https://fuguigui.github.io/hexo2/</a></p><p>分享搭建hexo博客报错历程<a href="https://ppppz.net/2021/12/27/%E5%88%86%E4%BA%AB%E6%90%AD%E5%BB%BAhexo%E5%8D%9A%E5%AE%A2%E6%8A%A5%E9%94%99%E5%8E%86%E7%A8%8B/">https://ppppz.net/2021/12/27/%E5%88%86%E4%BA%AB%E6%90%AD%E5%BB%BAhexo%E5%8D%9A%E5%AE%A2%E6%8A%A5%E9%94%99%E5%8E%86%E7%A8%8B/</a></p><p>插入图片<a href="https://zhuanlan.zhihu.com/p/265077468">https://zhuanlan.zhihu.com/p/265077468</a></p><p>原理<a href="https://segmentfault.com/a/1190000008784436">https://segmentfault.com/a/1190000008784436</a></p><p>blog美化之神<a href="https://www.fomal.cc/">https://www.fomal.cc/</a></p><p>fluid美化<a href="https://mrna16.github.io/2024/11/14/%E3%80%90Hexo%E3%80%91Fluid%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/">https://mrna16.github.io/2024/11/14/%E3%80%90Hexo%E3%80%91Fluid%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/</a></p><p><a href="https://b.wihi.top/posts/c1486c12">https://b.wihi.top/posts/c1486c12</a></p><p>日夜切换<a href="https://4rozen.github.io/archives/Hexo/60191.html">https://4rozen.github.io/archives/Hexo/60191.html</a>  用hugo和hexo纠结了挺久的 最终选了hexo是因为我是小白 而hexo的教程更多更成熟 </p><p>  hexo的主题是在butterfly和fluid中选择了后者 虽然看很多博客用butterfly做的很漂亮 但fluid的简洁戳中了我这个学二进制的新手 开袋即食呀 现阶段也没必要花大精力折腾前端网页啥的o((&gt;ω&lt; ))o </p><p>  同样这篇blog也偷个懒哈哈 直接上链接 没搭过的在全流程在第一个链接看到使用hexo d就可以去看下面的链接了 因为链接全是中文的哈哈 就不双语了</p><p>全流程<a href="https://blog.csdn.net/sinat_37781304/article/details/82729029">https://blog.csdn.net/sinat_37781304/article/details/82729029</a></p><p>fluid指南<a href="https://hexo.fluid-dev.com/docs/guide/">https://hexo.fluid-dev.com/docs/guide/</a></p><p>[<a href="https://youlan-lan.github.io/2021/06/07/Hexo%20%E4%B8%BB%E9%A2%98%E4%B9%8B%20Fluid/#Hexo-%E4%B8%BB%E9%A2%98%E4%B9%8B-Fluid]">https://youlan-lan.github.io/2021/06/07/Hexo%20%E4%B8%BB%E9%A2%98%E4%B9%8B%20Fluid/#Hexo-%E4%B8%BB%E9%A2%98%E4%B9%8B-Fluid]</a>(<a href="https://youlan-lan.github.io/2021/06/07/Hexo">https://youlan-lan.github.io/2021/06/07/Hexo</a> 主题之 Fluid&#x2F;#Hexo-主题之-Fluid)</p><p>如何写文章<a href="https://fuguigui.github.io/hexo2/">https://fuguigui.github.io/hexo2/</a></p><p>分享搭建hexo博客报错历程<a href="https://ppppz.net/2021/12/27/%E5%88%86%E4%BA%AB%E6%90%AD%E5%BB%BAhexo%E5%8D%9A%E5%AE%A2%E6%8A%A5%E9%94%99%E5%8E%86%E7%A8%8B/">https://ppppz.net/2021/12/27/%E5%88%86%E4%BA%AB%E6%90%AD%E5%BB%BAhexo%E5%8D%9A%E5%AE%A2%E6%8A%A5%E9%94%99%E5%8E%86%E7%A8%8B/</a></p><p>插入图片<a href="https://zhuanlan.zhihu.com/p/265077468">https://zhuanlan.zhihu.com/p/265077468</a></p><p>原理<a href="https://segmentfault.com/a/1190000008784436">https://segmentfault.com/a/1190000008784436</a></p><p>blog美化之神<a href="https://www.fomal.cc/">https://www.fomal.cc/</a></p><p>fluid美化<a href="https://mrna16.github.io/2024/11/14/%E3%80%90Hexo%E3%80%91Fluid%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/">https://mrna16.github.io/2024/11/14/%E3%80%90Hexo%E3%80%91Fluid%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/</a></p><p><a href="https://b.wihi.top/posts/c1486c12">https://b.wihi.top/posts/c1486c12</a></p><p>日夜切换<a href="https://4rozen.github.io/archives/Hexo/60191.html">https://4rozen.github.io/archives/Hexo/60191.html</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>blog</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>My First Blog</title>
     <link href="/2024/12/08/My-First-Blog/"/>
     <url>/2024/12/08/My-First-Blog/</url>
